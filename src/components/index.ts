@@ -5,6 +5,8 @@ import trendMark from './trendMark'
 import notification from './notification'
 import list from './list'
 import menus from './menus'
+import chooseTime from './chooseTime'
+import chooseDate from './chooseDate'
 
 const component = [
   chooseArea,
@@ -12,7 +14,9 @@ const component = [
   trendMark,
   notification,
   list,
-  menus
+  menus,
+  chooseTime,
+  chooseDate
 ]
 
 export default {

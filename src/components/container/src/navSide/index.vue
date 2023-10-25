@@ -25,6 +25,10 @@
       <el-icon><el-icon-bell /></el-icon>
       <span>显示通知</span>
     </el-menu-item>
+    <el-menu-item index="/chooseTime">
+      <el-icon><el-icon-aim /></el-icon>
+      <span>时间选择器</span>
+    </el-menu-item>
     
   </el-menu>
 </template>
